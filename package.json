@@ -1,0 +1,15 @@
+{
+  "name": "pokedexscrap",
+  "version": "1.0.0",
+  "description": "Obtem a pokedex do site pokemondb.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "O DANIEL",
+  "license": "ISC",
+  "dependencies": {
+    "jsdom": "^16.6.0",
+    "request": "^2.88.2"
+  }
+}
